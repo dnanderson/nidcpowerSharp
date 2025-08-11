@@ -1,4 +1,6 @@
-namespace nidcpowerSharp.Wrapper.Triggers
+using nidcpowerSharp.Wrapper;
+
+namespace nidcpowerSharp.Triggers
 {
     /// <summary>
     /// Represents the source trigger configuration for a channel.

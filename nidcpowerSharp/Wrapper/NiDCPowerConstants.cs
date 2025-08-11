@@ -1,4 +1,4 @@
-namespace nidcpowerSharp
+namespace nidcpowerSharp.Wrapper
 {
     public static class NiDCPowerConstants
     {

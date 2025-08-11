@@ -1,6 +1,6 @@
 using System;
 
-namespace nidcpowerSharp.Wrapper
+namespace nidcpowerSharp
 {
     /// <summary>
     /// Represents an error that occurred in the NI-DCPower driver.

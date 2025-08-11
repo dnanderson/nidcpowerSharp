@@ -1,7 +1,8 @@
 using System;
 using System.Text;
+using nidcpowerSharp.Wrapper;
 
-namespace nidcpowerSharp.Wrapper
+namespace nidcpowerSharp
 {
     /// <summary>
     /// Represents an external calibration session with an NI-DCPower instrument.

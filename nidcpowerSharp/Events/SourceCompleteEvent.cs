@@ -1,4 +1,6 @@
-namespace nidcpowerSharp.Wrapper.Events
+using nidcpowerSharp.Wrapper;
+
+namespace nidcpowerSharp.Events
 {
     /// <summary>
     /// Represents the configuration for the Source Complete event.
