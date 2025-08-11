@@ -1,4 +1,4 @@
-namespace nidcpowerSharp.Wrapper.Triggers
+namespace nidcpowerSharp.Triggers
 {
     /// <summary>
     /// Provides access to the various trigger configurations for a channel.

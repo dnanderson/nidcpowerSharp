@@ -1,4 +1,6 @@
-namespace nidcpowerSharp.Wrapper
+using nidcpowerSharp.Wrapper;
+
+namespace nidcpowerSharp
 {
     /// <summary>
     /// Specifies the output function.

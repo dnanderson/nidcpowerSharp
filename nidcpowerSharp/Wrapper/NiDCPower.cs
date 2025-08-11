@@ -2,7 +2,7 @@ using System;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace nidcpowerSharp
+namespace nidcpowerSharp.Wrapper
 {
     public static partial class NiDCPower
     {
@@ -481,7 +481,7 @@ namespace nidcpowerSharp
         [DllImport(DllName, CallingConvention = CallingConvention.Cdecl)]
         public static extern int niDCPower_ClearInterchangeWarnings(ViSession vi);
 
-        [DllImport(DllName, CallingConvention = CallingConvention.Cdecl)]
+        [DllImport(DllName, CallingConvention = CallingConvention.C.decl)]
         public static extern int niDCPower_ResetInterchangeCheck(ViSession vi);
 
         [DllImport(DllName, CallingConvention = CallingConvention.Cdecl)]

@@ -1,8 +1,9 @@
 using System;
-using nidcpowerSharp.Wrapper.Events;
-using nidcpowerSharp.Wrapper.Triggers;
+using nidcpowerSharp.Events;
+using nidcpowerSharp.Triggers;
+using nidcpowerSharp.Wrapper;
 
-namespace nidcpowerSharp.Wrapper
+namespace nidcpowerSharp
 {
     /// <summary>
     /// Represents a single channel on an NI-DCPower instrument. This class provides methods and properties for controlling a specific channel.

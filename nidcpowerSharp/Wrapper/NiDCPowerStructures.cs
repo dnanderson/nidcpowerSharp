@@ -1,6 +1,6 @@
 using System.Runtime.InteropServices;
 
-namespace nidcpowerSharp
+namespace nidcpowerSharp.Wrapper
 {
     [StructLayout(LayoutKind.Sequential, Pack = 8)]
     public struct NIComplexNumber

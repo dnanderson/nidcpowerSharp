@@ -1,4 +1,4 @@
-namespace nidcpowerSharp.Wrapper.Events
+namespace nidcpowerSharp.Events
 {
     /// <summary>
     /// Provides access to the various event configurations for a channel.

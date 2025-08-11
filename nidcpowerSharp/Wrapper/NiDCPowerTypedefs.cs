@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace nidcpowerSharp
+namespace nidcpowerSharp.Wrapper
 {
     [StructLayout(LayoutKind.Sequential)]
     public struct ViSession

@@ -1,8 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using nidcpowerSharp.Wrapper;
 
-namespace nidcpowerSharp.Wrapper
+namespace nidcpowerSharp
 {
     /// <summary>
     /// Represents a session with an NI-DCPower instrument. This class is the entry point for interacting with the instrument.
